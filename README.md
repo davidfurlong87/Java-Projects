@@ -36,3 +36,6 @@ Some simple questions and answers relating to Java algorithms.
 
 ## Java Persistence API Project
 This project involves creating Data Access Objects (DAOs) and annotating data models to persist data in a SQL database.
+
+#Logging
+A basic example of logging in Java.
