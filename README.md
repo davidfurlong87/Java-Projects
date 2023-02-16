@@ -39,3 +39,6 @@ This project involves creating Data Access Objects (DAOs) and annotating data mo
 
 ## Logging
 A basic example of logging in Java.
+
+## Multi-Threading
+Experimenting with muti-threading. Also came back to some of the earlier work with exception handling and scanners.
