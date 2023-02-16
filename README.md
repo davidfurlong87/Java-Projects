@@ -42,3 +42,6 @@ A basic example of logging in Java.
 
 ## Multi-Threading
 Experimenting with muti-threading. Also came back to some of the earlier work with exception handling and scanners.
+
+## Muti-Player Game
+A fun project, where I built a simple multi-player game in Java.
