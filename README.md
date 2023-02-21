@@ -37,6 +37,9 @@ Some simple questions and answers relating to Java algorithms.
 ## Java Persistence API Project
 This project involves creating Data Access Objects (DAOs) and annotating data models to persist data in a SQL database.
 
+## JSP Servlets
+A fun project using Java servlets in a DAO pattern. The goal was to separate the user interface from the business-logic layer of the app.
+
 ## Logging
 A basic example of logging in Java.
 
@@ -45,3 +48,6 @@ Experimenting with muti-threading. Also came back to some of the earlier work wi
 
 ## Muti-Player Game
 A fun project, where I built a simple multi-player game in Java.
+
+## Serialization and Input Streams
+A basic game which playes itself. The project makes use of inout streams and serialization techniques, along with some exception handling.
