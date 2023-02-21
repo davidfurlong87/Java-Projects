@@ -72,3 +72,9 @@ A more complicated Spring project. Defines a number of different messaging servi
 
 ## Spring MVC - Basic
 My first implentation of a Spring MVC project. Creates a simple login and authentication service in the model-view-control pattern. 
+
+## Spring MVC - Interceptor
+Builds upon the previous project, but now implements an interceptor from the springFramework package to preHandle requests and throw a simple exception.
+
+## Spring MVC - Notification
+A great project to build, as it allowed me to persist data with SQL. I'd used SQL plenty before in other MVC packages, so exploring it in Java let me have some fun. It uses the JavaX persistence package to finetune the SQL database at the model level.
