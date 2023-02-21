@@ -40,6 +40,12 @@ This project involves creating Data Access Objects (DAOs) and annotating data mo
 ## JSP Servlets
 A fun project using Java servlets in a DAO pattern. The goal was to separate the user interface from the business-logic layer of the app.
 
+## JSP Servlets - Basic
+A more basic implementation of the above.
+
+## JSP Final Project
+The third JSP servlets project I developed. This one has much more to it, and it creates an entire exam structure, with questions and answers, and an exam. Uses the DAO structure as before, with HTTP servlet requests to handle connections between the various elements. One of the tougher projects I developed, but with time the microservices structure became much easier.
+
 ## Logging
 A basic example of logging in Java.
 
@@ -51,3 +57,7 @@ A fun project, where I built a simple multi-player game in Java.
 
 ## Serialization and Input Streams
 A basic game which playes itself. The project makes use of inout streams and serialization techniques, along with some exception handling.
+
+## Singleton - Basics
+Nothing remarkable here. just a simple thing I put together whilst learning Java singletons. Defines a filing cabinet class, and updates its static member variable 'count' whenever instantiated.
+
