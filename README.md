@@ -85,5 +85,8 @@ Similar to the above, a project that builds a persistence environment with some 
 ## Streams
 Contains both a streams and a serializable app. Utilizes streams to continuously read from an input file and then serializes the data.
 
-## JUnit Test Driven Development
-Uses the JUnit package to enable testing. The app was entirely test-driven in its development.
+## TDD - Basics
+Uses JUnit to enable test-driven development. A number of classes and methods were defined in the test package, then created piece-by-piece by testing and watching them fail.
+
+## Test Driven Development - A Bokstore (JUnit)
+Uses the JUnit package to enable testing. The app was entirely test-driven in its development. 
