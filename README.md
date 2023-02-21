@@ -78,3 +78,12 @@ Builds upon the previous project, but now implements an interceptor from the spr
 
 ## Spring MVC - Notification
 A great project to build, as it allowed me to persist data with SQL. I'd used SQL plenty before in other MVC packages, so exploring it in Java let me have some fun. It uses the JavaX persistence package to finetune the SQL database at the model level.
+
+## Spring MVC Uploading with AJAX
+Similar to the above, a project that builds a persistence environment with some JSON serialization.
+
+## Streams
+Contains both a streams and a serializable app. Utilizes streams to continuously read from an input file and then serializes the data.
+
+## JUnit Test Driven Development
+Uses the JUnit package to enable testing. The app was entirely test-driven in its development.
