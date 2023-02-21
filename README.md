@@ -61,3 +61,14 @@ A basic game which playes itself. The project makes use of inout streams and ser
 ## Singleton - Basics
 Nothing remarkable here. just a simple thing I put together whilst learning Java singletons. Defines a filing cabinet class, and updates its static member variable 'count' whenever instantiated.
 
+## Spring Annotations
+Basic project developed whilst learning Spring annotations. Make use of various annotations such as @Component and @Value.
+
+## Spring Aspects
+Similar to the above, a very simple app which let me explore the use of aspects in Spring to modularize an app better. Part of a series of programs based around microservices.
+
+## Spring Beans and Services
+A more complicated Spring project. Defines a number of different messaging services, and uses Spring beans to add and remove data from the application context.
+
+## Spring MVC - Basic
+My first implentation of a Spring MVC project. Creates a simple login and authentication service in the model-view-control pattern. 
